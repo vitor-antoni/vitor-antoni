@@ -11,7 +11,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitor-antoni&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
 </div>
   
 ##
