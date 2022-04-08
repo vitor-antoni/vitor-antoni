@@ -1,6 +1,5 @@
 ### Hi, i'm Vitor Antoni. Welcome to my space!!😊
 
-- 👷🏼‍♂️ At the momment, i'm Apprentice of Industrial Eletronic.
 - 🌱 I’m currently learning how to programming Python.
 - 😎 I did English course during 6 years, but i'm not fluent. So, if i comit some mistake, please, ignore it.
 - ⚡ A fact about me: Since i was child, aways i looked for knowledges, whether doing courses, seeing videos or reading books and newspapers of my father.
