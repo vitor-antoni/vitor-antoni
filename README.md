@@ -1,17 +1,20 @@
-### Hi, i'm Vitor Antoni. Welcome to my space!!😊
+# Hi, i'm Vitor Antoni. Welcome to my space!!😊
 
-- 🌱 I’m currently learning how to programming Python.
-- 😎 I took English course during 6 years, but i'm not fluent. So, if i comit some mistake, please, ignore it or help me.
-- ⚡ A fact about me: Since i was child, aways i looked for knowledges, whether doing courses, seeing videos or reading books.
-- 📩 If you wants to contact me, send a message for my e-mail: v.silva.antoni@gmail.com
+- 🌱 Currently, I'm learning DevOps at AWS Cloud IaaS and doing some projects using Python Programming Language.
+- 📌 I will share here, by my repositories, my knowledges around IT as I learning new Technologies. **Like:** Shell Commands and new Projects.
+- 🗣 I took English course during 6 years, but I'm not fluent. So, if I comit some mistake, please, ignore it or help me.
+- 🔎 A fact about me: Since I was child, aways I looked for knowledges, whether doing courses, seeing videos or reading books.
+- 📩 If you wants to contact me, send a message to my e-mail: v.silva.antoni@gmail.com
 
 <div align="center">
   <a href="https://github.com/vitor-antoni">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitor-antoni&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
 </div>
+    
 <div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40px"/> -
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/> -
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px"/> -
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
 </div>
   
