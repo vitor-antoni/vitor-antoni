@@ -6,10 +6,7 @@
 - 🔎 A fact about me: Since I was child, aways I looked for knowledges, whether doing courses, seeing videos or reading books.
 - 📩 If you wants to contact me, send a message to my e-mail: v.silva.antoni@gmail.com
 
-<div align="center">
-  <a href="https://github.com/vitor-antoni">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitor-antoni&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-</div>
+![](https://raw.githubusercontent.com/vitor-antoni/vitor-antoni/main/profile-summary-card-output/github_dark/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/vitor-antoni/vitor-antoni/main/profile-summary-card-output/github_dark/3-stats.svg)
     
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40px"/> -
