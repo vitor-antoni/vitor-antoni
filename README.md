@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning how to programming Python.
 - 😎 I took English course during 6 years, but i'm not fluent. So, if i comit some mistake, please, ignore it or help me.
-- ⚡ A fact about me: Since i was child, aways i looked for knowledges, whether doing courses, seeing videos or reading books and newspapers of my father.
+- ⚡ A fact about me: Since i was child, aways i looked for knowledges, whether doing courses, seeing videos or reading books.
 - 📩 If you wants to contact me, send a message for my e-mail: v.silva.antoni@gmail.com
 
 <div align="center">
