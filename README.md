@@ -1,6 +1,6 @@
 # Hi, i'm Vitor Antoni. Welcome to my space!!😊
 
-- 🌱 Currently, I'm learning DevOps at AWS Cloud IaaS and doing some projects using Python Programming Language.
+- 🌱 Sou DevOps Analyst Junior - especializado na AWS Cloud.
 - 📌 I will share here, by my repositories, my knowledges around IT as I learning new Technologies. **Like:** Shell Commands and new Projects.
 - 🗣 I took English course during 6 years, but I'm not fluent. So, if I comit some mistake, please, ignore it or help me.
 - 🔎 A fact about me: Since I was child, aways I looked for knowledges, whether doing courses, seeing videos or reading books.
