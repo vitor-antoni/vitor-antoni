@@ -1,9 +1,7 @@
 # Hi, i'm Vitor Antoni. Welcome to my space!!😊
 
-- 🌱 Sou DevOps Analyst Junior - especializado na AWS Cloud.
-- 📌 I will share here, by my repositories, my knowledges around IT as I learning new Technologies. **Like:** Shell Commands and new Projects.
-- 🗣 I took English course during 6 years, but I'm not fluent. So, if I comit some mistake, please, ignore it or help me.
-- 🔎 A fact about me: Since I was child, aways I looked for knowledges, whether doing courses, seeing videos or reading books.
+- 🌱 Sou DevOps Analyst Junior - foco em AWS Cloud.
+- 📌 Aqui estarei compartilhando meus conhecimentos acerca da área de T.I. conforme for aprendendo novas tecnologias e desenvolvendo novos projetos.
 - 📩 If you wants to contact me, send a message to my e-mail: v.silva.antoni@gmail.com
 
 ![](https://raw.githubusercontent.com/vitor-antoni/vitor-antoni/main/profile-summary-card-output/github_dark/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/vitor-antoni/vitor-antoni/main/profile-summary-card-output/github_dark/3-stats.svg)
