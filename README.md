@@ -1,4 +1,4 @@
-# Olá, sejá bem-vindo(a) ao meu es!😊
+# Olá, sejá bem-vindo(a) ao meu GitHub!😊
 
 - 🙋🏻‍♂️ Me chamo Vitor Antoni e tenho 19 anos.
 - 👨🏻‍💻 Trabalho com Cloud Computing e desenvolvo alguns programas em Python.
