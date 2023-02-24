@@ -1,6 +1,6 @@
-# Hi, i'm Vitor Antoni. Welcome to my space!!😊
+# Olá, me chamo Vitor Antoni. Sejá bem-vindo(a) ao meu GitHub!!😊
 
-- 🌱 Sou DevOps Analyst Junior - foco em AWS Cloud.
+- 🌱 Trabalho com Cloud Computing e desenvolvo alguns programas em Python.
 - 📌 Aqui estarei compartilhando projetos pessoais e meus conhecimentos acerca da área de T.I.
 - 📩 If you wants to contact me, send a message to my e-mail: v.silva.antoni@gmail.com
 
