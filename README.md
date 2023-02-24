@@ -1,4 +1,4 @@
-# Olá, me chamo Vitor Antoni. Sejá bem-vindo(a) ao meu GitHub!!😊
+# Olá, me chamo Vitor Antoni. Sejá bem-vindo(a) ao meu GitHub!😊
 
 - 🌱 Trabalho com Cloud Computing e desenvolvo alguns programas em Python.
 - 📌 Aqui estarei compartilhando projetos pessoais e meus conhecimentos acerca da área de T.I.
