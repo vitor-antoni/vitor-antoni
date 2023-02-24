@@ -1,8 +1,9 @@
-# Olá, me chamo Vitor Antoni. Sejá bem-vindo(a) ao meu GitHub!😊
+# Olá, sejá bem-vindo(a) ao meu es!😊
 
-- 🌱 Trabalho com Cloud Computing e desenvolvo alguns programas em Python.
-- 📌 Aqui estarei compartilhando projetos pessoais e meus conhecimentos acerca da área de T.I.
-- 📩 If you wants to contact me, send a message to my e-mail: v.silva.antoni@gmail.com
+- 🙋🏻‍♂️ Me chamo Vitor Antoni e tenho 19 anos.
+- 👨🏻‍💻 Trabalho com Cloud Computing e desenvolvo alguns programas em Python.
+- 📌 Aqui estarei compartilhando projetos pessoais e meus conhecimentos acerca da área de Tecnologia → Programação e Cloud Computing.
+- 📩 Para entrar em contato comigo, favor encaminhe um e-mail para: v.silva.antoni@gmail.com
 
 ![](https://raw.githubusercontent.com/vitor-antoni/vitor-antoni/main/profile-summary-card-output/github_dark/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/vitor-antoni/vitor-antoni/main/profile-summary-card-output/github_dark/3-stats.svg)
     
