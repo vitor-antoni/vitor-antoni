@@ -6,8 +6,8 @@
 - 📩 Para entrar em contato comigo, favor encaminhe um e-mail para: v.silva.antoni@gmail.com
 
 <div align="center">
-    <img width="365px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-antoni&layout=compact&theme=github_dark"/>
-    <img src="https://raw.githubusercontent.com/vitor-antoni/vitor-antoni/main/profile-summary-card-output/github_dark/3-stats.svg"/>
+    <img width="355px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-antoni&layout=compact&theme=github_dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=vitor-antoni&theme=github_dark&hide_rank=true"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
