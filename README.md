@@ -1,4 +1,4 @@
-# Olá, sejá bem-vindo(a) ao meu GitHub!😊
+# Olá, seja bem-vindo(a) ao meu GitHub!😊
 
 - 🙋🏻‍♂️ Me chamo Vitor Antoni e tenho 19 anos.
 - 👨🏻‍💻 Trabalho com Cloud Computing e desenvolvo alguns programas em Python.
@@ -7,7 +7,7 @@
 
 <div align="center">
     <img width="365px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-antoni&layout=compact&theme=github_dark"/>
-    <img src="https://raw.githubusercontent.com/vitor-antoni/vitor-antoni/main/profile-summary-card-output/github/3-stats.svg"/>
+    <img src="https://raw.githubusercontent.com/vitor-antoni/vitor-antoni/main/profile-summary-card-output/github_dark/3-stats.svg"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
