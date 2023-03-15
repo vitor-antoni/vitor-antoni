@@ -5,13 +5,20 @@
 - 📌 Aqui compartilho projetos pessoais e meus conhecimentos na área de Tecnologia → Programação e Cloud Computing.
 - 📩 Para entrar em contato comigo, favor encaminhe um e-mail para: v.silva.antoni@gmail.com
 
-![](https://raw.githubusercontent.com/vitor-antoni/vitor-antoni/main/profile-summary-card-output/github_dark/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/vitor-antoni/vitor-antoni/main/profile-summary-card-output/github_dark/3-stats.svg)
-    
-<div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
+<div align="center">
+    <img width="355px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-antoni&theme=github_dark&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=vitor-antoni&show_icons=true&theme=github_dark&hide_rank=true"/>
 </div>
 
+<div align="center" style="display: inline_block"><br>
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"/>
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"/>
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"/>
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg"/>
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/>
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/>
+</div>
+
+---
 ![Snake animation](https://github.com/vitor-antoni/vitor-antoni/blob/output/github-contribution-grid-snake.svg)
