@@ -11,12 +11,12 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"/>
     <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"/>
-    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"/>
-    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg"/>
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"/>
     <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
     <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/>
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"/>
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg"/>
     <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/>
 </div>
 
