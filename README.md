@@ -3,6 +3,7 @@
 - 🙋🏻‍♂️ Me chamo Vitor Antoni e tenho 19 anos.
 - 👨🏻‍💻 Trabalho com Cloud Computing e desenvolvo alguns programas em Python.
 - 📌 Aqui compartilho projetos pessoais e meus conhecimentos na área de Tecnologia → Programação e Cloud Computing.
+- 🔒  Desenvolvo projetos em repositórios privados acerca de serviços da AWS, pois são relacionados a Olimpíada do Conhecimento que participo.
 - 📩 Para entrar em contato comigo, favor encaminhe um e-mail para: v.silva.antoni@gmail.com
 
 <div align="center">
