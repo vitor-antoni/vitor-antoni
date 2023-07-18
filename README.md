@@ -20,6 +20,3 @@
     <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg"/>
     <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/>
 </div>
-
----
-![Snake animation](https://github.com/vitor-antoni/vitor-antoni/blob/output/github-contribution-grid-snake.svg)
