@@ -6,7 +6,7 @@
 - 🔒  Desenvolvo alguns repositórios privados acerca de serviços da AWS, pois estão relacionados a Olimpíada do Conhecimento.
 - 📩 Para entrar em contato comigo, favor encaminhe um e-mail para: v.silva.antoni@gmail.com
 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
     <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"/>
     <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"/>
     <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
