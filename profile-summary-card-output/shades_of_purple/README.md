@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/vitor-antoni/vitor-antoni/main/profile-summary-card-output/shades_of_purple/4-productive-time.svg)
+```
+
+    
