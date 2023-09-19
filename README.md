@@ -1,9 +1,8 @@
 # Olá, seja bem-vindo(a) ao meu GitHub!😊
 
 - 🙋🏻‍♂️ Me chamo Vitor Antoni e tenho 19 anos.
-- 👨🏻‍💻 Trabalho com Cloud Computing sendo competidor da Olimpiada do Conhecimento e desenvolvo alguns programas em Python.
-- 📌 Aqui compartilho projetos pessoais e meus conhecimentos na área de Tecnologia → Programação e Cloud Computing.
-- 🔒  Desenvolvo alguns repositórios privados acerca de serviços da AWS, pois estão relacionados a Olimpíada do Conhecimento.
+- 👨🏻‍💻 Estudo e trabalho com Computação em Nuvem e DevOps.
+- 📌 Aqui compartilho projetos pessoais e meus conhecimentos na área de programação (usando Python) e DevOps.
 - 📩 Para entrar em contato comigo, favor encaminhe um e-mail para: v.silva.antoni@gmail.com
 
 <div align="center" style="display: inline_block">
