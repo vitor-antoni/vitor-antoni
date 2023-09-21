@@ -1,8 +1,8 @@
-# Olá, seja bem-vindo(a) ao meu GitHub!😊
+# Hello, welcome to my GitHub Profile!😊
 
-- 🙋🏻‍♂️ Me chamo Vitor Antoni e tenho 19 anos.
-- 👨🏻‍💻 Atuo como Analista de Cloud Junior.
-- 📌 Aqui compartilho projetos pessoais e meus conhecimentos na área de programação (usando Python) e DevOps.
+- 🙋🏻‍♂️ Meu nome é Vitor Antoni e sou um entusiasta pela tecnologia da informação.
+- 🎯 Meus estudos estão direcionados para área de DevOps e Computação em nuvem.
+- 👨🏻‍💻 Desenvolvo projetos usando Python, shell script e arquitetando soluções na Amazon Web Services (AWS).
 - 📩 Para entrar em contato comigo, favor encaminhe um e-mail para: v.silva.antoni@gmail.com
 
 <div align="center" style="display: inline_block">
