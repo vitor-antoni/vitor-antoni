@@ -1,8 +1,9 @@
-# Olá, seja bem-vind@ ao meu perfil!😊
+# Hello, welcome to my profile!😊
 
-- 🙋🏻‍♂️ Me chamo Vitor Antoni e sou um entusiasta pela tecnologia da informação.
-- 🎯 Meus estudos estão direcionados para área de DevOps e Computação em nuvem.
-- 👨🏻‍💻 Desenvolvo projetos usando Python, shell script e arquitetando soluções na Amazon Web Services (AWS).
+- 🙋🏻‍♂️ My name is Vitor Antoni and i'm an Information Techonlogy enthusiast.
+- 🎯 My studies and objectives are focused on directed to DevOps and Cloud Computing.
+- ☁️ Additionally, as an AWS Solutions Architect, I love to explore AWS Cloud Native solutions.
+- 👨🏻‍💻 In this space, you will have access to my own projects developed using Python, shell script and Terraform.
 
 <div align="center" style="display: inline_block">
     <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"/>
