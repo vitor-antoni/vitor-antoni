@@ -18,8 +18,3 @@
     <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
     <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/>
 </div>
-
-<div align="center">
-    <img width="355px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-antoni&layout=compact&theme=github_dark"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=vitor-antoni&theme=github_dark&hide_rank=true"/>
-</div>
